@@ -1,4 +1,4 @@
 pushplus_token: 123456abc ## pushplus推送token
 refresh_token: 123456abc ## 阿里云网盘刷新token
 bilibili_cookie: 123456abc ## B站cookie
-jd_cookie: 123456abc ##京东cookie
+jd_cookie: pin=jd_555bfd3676564;wskey=AAJl0xcqAEA52cD8yay4lY9WU4cSVVlPAir2fi9yJri1c0CrLTrV7DC-X0C65yCwHmxCnZ4un6jVtZb0gzDQ-0WLlwSBoGjI;whwswswws=BApXewNEGnutDb65wYTMSkJBemAyALdkaRyx1Y8tX9xJ1ItZfQtODxxjtiHisZNAmJeFF1m-Csg;pin_hash=3224BE61
